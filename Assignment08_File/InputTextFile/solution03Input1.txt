@@ -1,0 +1,6 @@
+/*     DC Super Heros     */
+Batman -> Bruce Wayne
+Superman -> Clark Kent
+Woderwoman -> Princcess Diana
+Aquaman -> Arthur Curry
+Flash -> Barry Allen
